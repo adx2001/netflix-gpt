@@ -9,7 +9,6 @@
 - **Firebase Authentication**: Secure and easy user authentication with Firebase Auth.
 - **Real-time Data Sync**: Firebase ensures quick and reliable synchronization of user data.
 - **Responsive Design**: The app is designed to work seamlessly across devices.
-- **Smooth Navigation**: Intuitive interface for easy browsing between components.
 
 ---
 
