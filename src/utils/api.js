@@ -4,7 +4,7 @@ export const GET_OPTIONS = {
   method: 'GET',
   headers: {
     accept: 'application/json',
-    Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4MjNlOGZiZGU5MmZmYWQ4NTZhZDlhM2M0OTY0ODA0ZCIsIm5iZiI6MTczMzMyNzAyOS4yMjgsInN1YiI6IjY3NTA3OGI1ZmI3Mjk4YzExYTIxNzE4NyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.RykvIEUypo7bs8AGm822ltKXOSe5Wz1Md0Iw6B5UsYY'
+    Authorization: process.env.REACT_APP_BEARER_TOKEN
   }
 }
 
